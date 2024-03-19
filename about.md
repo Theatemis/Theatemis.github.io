@@ -4,4 +4,5 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+This is Theatemis, a freshman law student from ZJHZCC.
+一个同人女的碎碎念，欢迎大家来玩━(*｀∀´*)ノ亻!
